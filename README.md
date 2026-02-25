@@ -25,12 +25,12 @@
 
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Alena7&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![Trophies](https://github-profile-trophy.vercel.app/?username=7Alena7)
 
 ---
 
@@ -40,4 +40,4 @@
 ---
 
 ## 🐍 GitHub Snake
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/7Alena7/7Alena7/output/github-contribution-grid-snake.svg)
