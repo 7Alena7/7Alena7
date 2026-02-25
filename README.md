@@ -1,8 +1,8 @@
 # Hi there 👋
 
 🌐 **Socials:**
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/alenashmelkova/)
+- Email: alenashmelkova@gmail.com
 
 ---
 
