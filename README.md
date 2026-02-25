@@ -1,7 +1,7 @@
 # Hi there 👋
 
 🌐 **Socials:**
-- [LinkedIn](https://www.linkedin.com/in/alenashmelkova/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alenashmelkova/)
 - Email: alenashmelkova@gmail.com
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=7Alena7&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Alena7&layout=compact)
 
 ---
